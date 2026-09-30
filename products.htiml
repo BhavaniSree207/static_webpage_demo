@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ShopEase - Products</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>ShopEase</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="products.html">Products</a>
+            <a href="contact.html">Contact</a>
+            <a href="reviews.html">Reviews</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Our Products</h2>
+
+        <div>
+            <h3>Wireless Headphones</h3>
+            <p>Price: ₹1,999</p>
+        </div>
+
+        <div>
+            <h3>Smart Watch</h3>
+            <p>Price: ₹2,499</p>
+        </div>
+
+        <div>
+            <h3>Bluetooth Speaker</h3>
+            <p>Price: ₹1,499</p>
+        </div>
+
+    </main>
+
+</body>
+</html>
